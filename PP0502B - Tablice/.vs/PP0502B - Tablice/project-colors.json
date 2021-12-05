@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "564d3c9e-bed2-460b-a85f-dfc5e073e644": {
+      "ProjectGuid": "564d3c9e-bed2-460b-a85f-dfc5e073e644",
+      "DisplayName": "PP0502B - Tablice",
+      "ColorIndex": 0
+    },
+    "13a1de5e-3095-4890-8bb3-cdc4262e9cfa": {
+      "ProjectGuid": "13a1de5e-3095-4890-8bb3-cdc4262e9cfa",
+      "DisplayName": "PP0502B",
+      "ColorIndex": 1
+    },
+    "5e12570f-c7cd-47cd-a695-5b7664b7eef2": {
+      "ProjectGuid": "5e12570f-c7cd-47cd-a695-5b7664b7eef2",
+      "DisplayName": "Program",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
