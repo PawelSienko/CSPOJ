@@ -1,0 +1,8 @@
+C:\Users\sienk\OneDrive\Pulpit\PRIME_T - Liczby Pierwsze\bin\Debug\PRIME_T - Liczby Pierwsze.exe.config
+C:\Users\sienk\OneDrive\Pulpit\PRIME_T - Liczby Pierwsze\bin\Debug\PRIME_T - Liczby Pierwsze.exe
+C:\Users\sienk\OneDrive\Pulpit\PRIME_T - Liczby Pierwsze\bin\Debug\PRIME_T - Liczby Pierwsze.pdb
+C:\Users\sienk\OneDrive\Pulpit\PRIME_T - Liczby Pierwsze\obj\Debug\PRIME_T - Liczby Pierwsze.csproj.AssemblyReference.cache
+C:\Users\sienk\OneDrive\Pulpit\PRIME_T - Liczby Pierwsze\obj\Debug\PRIME_T - Liczby Pierwsze.csproj.SuggestedBindingRedirects.cache
+C:\Users\sienk\OneDrive\Pulpit\PRIME_T - Liczby Pierwsze\obj\Debug\PRIME_T - Liczby Pierwsze.csproj.CoreCompileInputs.cache
+C:\Users\sienk\OneDrive\Pulpit\PRIME_T - Liczby Pierwsze\obj\Debug\PRIME_T - Liczby Pierwsze.exe
+C:\Users\sienk\OneDrive\Pulpit\PRIME_T - Liczby Pierwsze\obj\Debug\PRIME_T - Liczby Pierwsze.pdb
