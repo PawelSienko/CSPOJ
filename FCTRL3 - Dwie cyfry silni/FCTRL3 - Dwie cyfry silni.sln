@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FCTRL3 - Dwie cyfry silni", "FCTRL3 - Dwie cyfry silni.csproj", "{78F4B889-A854-41EB-AA0F-94D0D2E0823B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78F4B889-A854-41EB-AA0F-94D0D2E0823B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78F4B889-A854-41EB-AA0F-94D0D2E0823B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78F4B889-A854-41EB-AA0F-94D0D2E0823B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78F4B889-A854-41EB-AA0F-94D0D2E0823B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A912B7BA-FEFB-499A-8B3B-6B6EB691EAE0}
+	EndGlobalSection
+EndGlobal

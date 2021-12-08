@@ -1,0 +1,8 @@
+C:\Users\sienk\OneDrive\Pulpit\FCTRL3 - Dwie cyfry silni\bin\Debug\FCTRL3 - Dwie cyfry silni.exe.config
+C:\Users\sienk\OneDrive\Pulpit\FCTRL3 - Dwie cyfry silni\bin\Debug\FCTRL3 - Dwie cyfry silni.exe
+C:\Users\sienk\OneDrive\Pulpit\FCTRL3 - Dwie cyfry silni\bin\Debug\FCTRL3 - Dwie cyfry silni.pdb
+C:\Users\sienk\OneDrive\Pulpit\FCTRL3 - Dwie cyfry silni\obj\Debug\FCTRL3 - Dwie cyfry silni.csproj.AssemblyReference.cache
+C:\Users\sienk\OneDrive\Pulpit\FCTRL3 - Dwie cyfry silni\obj\Debug\FCTRL3 - Dwie cyfry silni.csproj.SuggestedBindingRedirects.cache
+C:\Users\sienk\OneDrive\Pulpit\FCTRL3 - Dwie cyfry silni\obj\Debug\FCTRL3 - Dwie cyfry silni.csproj.CoreCompileInputs.cache
+C:\Users\sienk\OneDrive\Pulpit\FCTRL3 - Dwie cyfry silni\obj\Debug\FCTRL3 - Dwie cyfry silni.exe
+C:\Users\sienk\OneDrive\Pulpit\FCTRL3 - Dwie cyfry silni\obj\Debug\FCTRL3 - Dwie cyfry silni.pdb
